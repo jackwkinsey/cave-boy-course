@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "35dcf41f-77a7-4a27-8607-4f9f3bafd819",
+            "Value": {
+                "id": "0fd1df8d-c20c-4bf3-b784-b38c22b766ef",
+                "resourcePath": "scripts\\move\\move.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "490ca510-8247-4146-98ac-ea78d7b13bf3",
             "Value": {
                 "id": "ce0d9838-16fa-462d-8967-7309bc45597c",
@@ -167,6 +175,22 @@
             }
         },
         {
+            "Key": "ade78f0d-b30b-4517-9ec0-b452806c4f87",
+            "Value": {
+                "id": "89598099-dee9-4eb9-8dcc-5fe52e913dba",
+                "resourcePath": "objects\\obj_solid\\obj_solid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aec9e09e-6f9b-4ee4-be37-c545592e613a",
+            "Value": {
+                "id": "dfbea7c8-17ec-494c-a99b-c3463c5cf872",
+                "resourcePath": "scripts\\apply_friction\\apply_friction.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b58aa752-4a52-4286-a0b8-47d368061536",
             "Value": {
                 "id": "463f2f94-2889-44ea-aa83-016ce4331cff",
@@ -256,7 +280,8 @@
         }
     ],
     "script_order": [
-        
+        "aec9e09e-6f9b-4ee4-be37-c545592e613a",
+        "35dcf41f-77a7-4a27-8607-4f9f3bafd819"
     ],
     "tutorial": ""
 }
